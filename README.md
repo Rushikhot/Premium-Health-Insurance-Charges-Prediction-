@@ -18,8 +18,6 @@ The goal of this project is to develop a predictive model that estimates health 
 
 ```
 Premium-Health-Insurance-Charges-Prediction/
-│
-├── LICENSE                          # Licensing information
 ├── README.md                        # Project overview and documentation
 ├── requirements.txt                 # Python package dependencies
 │
